@@ -21,7 +21,8 @@ const MODELS = [
   { id: 'google-ai-studio/gemini-2.0-flash', name: 'Gemini 2.0 Flash' },
   { id: 'google-ai-studio/gemini-2.5-flash', name: 'Gemini 2.5 Flash' },
   { id: 'google-ai-studio/gemini-2.5-pro', name: 'Gemini 2.5 Pro' },
-  { id: 'anthropic/claude-opus-4-20250514', name: 'Claude Opus 4' }
+  { id: 'anthropic/claude-opus-4-20250514', name: 'Claude Opus 4' },
+  { id: '@cf/meta/llama-4-scout-17b-16e-instruct', name: 'Llama4 Scout' }
 ];
 
 export { MODELS };
