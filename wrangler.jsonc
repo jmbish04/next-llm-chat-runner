@@ -26,11 +26,9 @@
 	 * https://developers.cloudflare.com/workers/runtime-apis/bindings/
 	 */
 
-"ai": [
-  {
+  "ai": {
     "binding": "AI"
   }
-]
 
 	/**
 	 * Environment Variables
